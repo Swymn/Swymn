@@ -59,8 +59,13 @@ I am a junior developer currently working at @Capgemini. Passionate about new te
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random quotes
+> When you find you have to add a feature to a program, and the program’s code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature. **Kent Beck**
+
+> Hard work is no substitute for thought. :thought_balloon: **Bertrand Russell**
+
+> First, solve the problem. Then, write the code. **Eric Evans**
+
 
 Feel free to explore my repositories and get in touch!
 
