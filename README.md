@@ -66,6 +66,7 @@ I am a junior developer currently working at @Capgemini. Passionate about new te
 
 > First, solve the problem. Then, write the code. **Eric Evans**
 
+> Make it works, make it right, make it fast. **Kent Beck**
 
 Feel free to explore my repositories and get in touch!
 
